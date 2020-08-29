@@ -1,4 +1,4 @@
-# Matcha-dark-aliz-for-ULauncher
+# Matcha Dark Aliz for ULauncher
 
 A simple dark and red theme for ULauncher inspired by the Matcha Dark Aliz theme from XFCE.
 
